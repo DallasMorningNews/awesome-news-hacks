@@ -1,5 +1,5 @@
 # awesome-hacks
-List of small open source codebases by journalists for journalists for [Inaugural Hack Swap](http://ire.org/events-and-training/event/2702/2988/) session at NICAR 2017.
+List of small open source code projects by journalists for journalists for [Inaugural Hack Swap](http://ire.org/events-and-training/event/2702/2988/) session at NICAR 2017.
 
 Saturday, May 4, 2017, 2:15 - 3:15 p.m.
 
