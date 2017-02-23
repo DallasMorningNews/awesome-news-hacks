@@ -4,7 +4,7 @@
 
 Awesome bits of OS code built and tested in newsrooms for the purpose of enabling smarter, faster and better journalism.
 
-Taking submissions for the [inaugural hack swap](http://ire.org/events-and-training/event/2702/2988/) at [NICAR 2017](http://ire.org/conferences/nicar2017/).
+Taking submissions for the [inaugural hack swap](http://ire.org/events-and-training/event/2702/2988/) at [NICAR 2017](http://ire.org/conferences/nicar2017/)!
 
 #### NICAR 2017 session description
 
@@ -18,7 +18,7 @@ Taking submissions for the [inaugural hack swap](http://ire.org/events-and-train
 
 Many of us work in small teams or alone in our newsrooms. All of us rely on shared code to make us faster and better at what we do.
 
-We want to help diversify the scale and community of open source sharing in journalism. Everyone can contribute their bit. Whether it's a few lines of bash to ease a data import to a new framework, we think sharing code, especially nearly-great and small code, adds to the overall health of journalism and, by extension, of democracy.
+We want to help diversify the scale and community of open source sharing in journalism. Everyone can contribute their bit. Whether it's a few lines of bash to ease a public data import to a new framework, we think sharing code, especially nearly-great and small code, adds to the overall health of journalism and, by extension, of democracy.
 
 Seriously, we said that once.
 
@@ -26,6 +26,21 @@ Seriously, we said that once.
 #### How you can participate
 
 Send a pull request to this repo with your awesome news hack as per our [contributor guide](contributing.md).
+
+
+#### What kinds of projects should be here
+
+Simply put: We're looking for code that clearly enables journalism.
+
+What that means is obviously open to debate, but here are some ins and outs we have in mind:
+
+#### In
+- Couple lines of bash that jitter geodata
+- pym.js, a utility designed with dataviz publishing in mind
+
+#### Likely out
+- A React plugin that renders an awesome date picker
+- Code closely tied to a specific story that can really only be used to replicate the same story
 
 
 #### Curators/NICAR session emcees
