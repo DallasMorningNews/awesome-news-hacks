@@ -1,5 +1,7 @@
 # Awesome news hacks
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 Awesome bits of OS code built and tested in newsrooms for the purpose of enabling smarter, faster and better journalism.
 
 Taking submissions for the [inaugural hack swap](http://ire.org/events-and-training/event/2702/2988/) at [NICAR 2017](http://ire.org/conferences/nicar2017/).
@@ -57,3 +59,7 @@ Send a pull request to this repo with your awesome news hack as per our [contrib
 |What it do| Newsroom contacts manager. Built with cool extras like graph analysis of social networks. We also use it to track the diversity of our sources. |
 |Languages/Frameworks| Python, Django|
 |Authors| Jon McClure, The Dallas Morning News|
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
