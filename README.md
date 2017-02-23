@@ -1,8 +1,10 @@
-# awesome-hacks
+# Awesome news hacks
 
-Taking submissions for the [inaugural hack swap](http://ire.org/events-and-training/event/2702/2988/) at NICAR 2017.
+Awesome bits of OS code built and tested in newsrooms for the purpose of enabling smarter, faster and better journalism.
 
-#### Session description
+Taking submissions for the [inaugural hack swap](http://ire.org/events-and-training/event/2702/2988/) at [NICAR 2017](http://ire.org/conferences/nicar2017/).
+
+#### NICAR 2017 session description
 
 > In the last year you’ve built a bit of code that someone else needs. Buried deep in your github is a half week of work, doomed to repeat itself by newsroom developers just like you, over and over. But it doesn’t have to be this way. Dedup the world and come to the inaugural hack swap. Think of it as a flea market of code, this session is designed to encourage sharing of code bits nearly great and small.
 
@@ -10,13 +12,19 @@ Taking submissions for the [inaugural hack swap](http://ire.org/events-and-train
 
 > Come be part of the news nerd sharing economy.
 
-#### The goal
+#### An awesome list with a sense of purpose!
 
-Many of us work in small teams and all of us rely on shared code to make us faster and better at what we do.
+Many of us work in small teams or alone in our newsrooms. All of us rely on shared code to make us faster and better at what we do.
 
-So far the mechanism for sharing code has revolved around larger projects usually at a later stage in development. A large number of the most successful open source projects are those published by developers at larger newsrooms. We want to diversify the scale and community of open source sharing in journalism.
+We want to help diversify the scale and community of open source sharing in journalism. Everyone can contribute their bit. Whether it's a few lines of bash to ease a data import to a new framework, we think sharing code, especially nearly-great and small code, adds to the overall health of journalism and, by extension, of democracy.
 
-We think we can blah blah blah by blah blah blahing all over the blah blah blah.
+Seriously, we said that once.
+
+
+#### How you can participate
+
+Send a pull request to this repo with your awesome news hack as per our [contributor guide](contributing.md).
+
 
 #### Curators/NICAR session emcees
 
@@ -24,46 +32,28 @@ We think we can blah blah blah by blah blah blahing all over the blah blah blah.
 - [Andrew Chavez](https://twitter.com/adchavez)
 - [Jon McClure](https://twitter.com/JonRMcClure)
 
-#### How you can participate
 
-Send a pull request to this repo with your awesome hack.
 
-Need help on a project? Add it to the classifieds.
+# Hacks <a name="hacks"></a>
 
-We'll start this as a repo and if it grows to something more, we'll make it cooler.
+#### Contents
 
-# Hacks
+- [Dataviz](#hacks-dataviz)
+- [Newsroom utilities](#hacks-newsroom-utilities)
+
+### Dataviz <a name="hacks-dataviz"></a>
 
 |   Project  | [chartwerk-editor](https://github.com/DallasMorningNews/chartwerk-editor)  |
 |----------|--------|
 |What it do| Our newsroom graphics appliance. Lets us develop and tweak chart templates easily alongside reporters, publish embeddable interactive or static charts to AWS and quickly build chart types using any third party libs we like. |
-|Status| Packaged to distribute.|
 |Languages/Frameworks| Javascript, React, Redux|
-|Author(s)| Jon McClure, The Dallas Morning News|
-| Documentation| [Here.](https://the-dallas-morning-news.gitbooks.io/chartwerk-editor/content/docs/introduction.html) API completely documented. Missing a few sections on integrating with separate chart storage application/API. |
-| Tests | :( |
+|Authors| Jon McClure, The Dallas Morning News|
 
 
+### Newsroom utilities <a name="hacks-newsroom-utilities"></a>
 
-# Classifieds
-
-### App seeking dev
-
-_List your app here if you're looking for developers from other newsrooms to try out or test your code._
-
-|Project|[chartwerk-editor](https://github.com/DallasMorningNews/chartwerk-editor)|
-|---|---|
-|seeking| Folks to test integration. |
-|contact|Jon McClure - jmcclure@dallasnews.com|
-
-### Dev seeking app
-
-_Have a project idea but not sure if others have built something similar? Ask here._
-
-### Dev seeking dev
-
-_Looking for contributors/co-conspirators? Post here._
-
-### App seeking app
-
-_You nasty._
+|   Project  | [django-rolodex](https://github.com/DallasMorningNews/django-rolodex)  |
+|----------|--------|
+|What it do| Newsroom contacts manager. Built with cool extras like graph analysis of social networks. We also use it to track the diversity of our sources. |
+|Languages/Frameworks| Python, Django|
+|Authors| Jon McClure, The Dallas Morning News|
