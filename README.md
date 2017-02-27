@@ -2,7 +2,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Awesome bits of OS code built and tested in newsrooms for the purpose of enabling smarter, faster and better journalism.
+Awesome bits of code built and tested in newsrooms for the purpose of enabling smarter, faster and better journalism.
 
 Taking submissions for the [inaugural hack swap](http://ire.org/events-and-training/event/2702/2988/) at [NICAR 2017](http://ire.org/conferences/nicar2017/)!
 
@@ -34,20 +34,23 @@ Simply put: We're looking for code that clearly enables journalism.
 
 What that means is obviously open to debate, but here are some ins and outs we have in mind:
 
-#### In
+##### In
 - Couple lines of bash that jitter geodata
 - pym.js, a utility designed with dataviz publishing in mind
 
-#### Likely out
+##### Likely out
 - A React plugin that renders an awesome date picker
 - Code closely tied to a specific story that can really only be used to replicate the same story
 
 
-#### Curators/NICAR session emcees
+#### Current Curators/NICAR 2017 session emcees
 
-- [Jeremy Bowers](https://twitter.com/jeremybowers)
-- [Andrew Chavez](https://twitter.com/adchavez)
 - [Jon McClure](https://twitter.com/JonRMcClure)
+- [Andrew Chavez](https://twitter.com/adchavez)
+- [Jeremy Bowers](https://twitter.com/jeremybowers)
+
+
+Want to help curate this list? Drop a line in the issues.
 
 
 
