@@ -4,9 +4,15 @@
 
 Awesome bits of code built and tested in newsrooms for the purpose of enabling smarter, faster and better journalism.
 
-Taking submissions for the [inaugural hack swap](http://ire.org/events-and-training/event/2702/2988/) at [NICAR 2017](http://ire.org/conferences/nicar2017/)!
+#### NICAR 2017
 
-#### NICAR 2017 session description
+This list supplements the [Hack Swap](http://ire.org/events-and-training/event/2702/2988/) session at [NICAR 2017](http://ire.org/conferences/nicar2017/).
+
+**2:15 p.m. - 3:15 p.m., Saturday | City Terrace 12**
+
+
+
+##### Session description
 
 > In the last year you’ve built a bit of code that someone else needs. Buried deep in your github is a half week of work, doomed to repeat itself by newsroom developers just like you, over and over. But it doesn’t have to be this way. Dedup the world and come to the inaugural hack swap. Think of it as a flea market of code, this session is designed to encourage sharing of code bits nearly great and small.
 
@@ -25,18 +31,18 @@ Seriously, we said that once.
 
 #### How you can participate
 
-Send a pull request to this repo with your awesome news hack as per our [contributor guide](contributing.md).
+Send a pull request to this repo with your awesome news hack as per our [contributor guide](CONTRIBUTING.md) and come to the Hack Swap session at NICAR 2017 to tell others about your awesome hack and what it do.
 
 
 #### What kinds of projects should be here
 
 Simply put: We're looking for code that clearly enables journalism.
 
-What that means is obviously open to debate, but here are some ins and outs we have in mind:
+What that means is open to welcome debate, but here are some ins and outs we have in mind:
 
 ##### In
-- Couple lines of bash that jitter geodata
-- pym.js, a utility designed with dataviz publishing in mind
+- Couple lines of bash that help process election data
+- JavaScript library that helps present responsive charts
 
 ##### Likely out
 - A React plugin that renders an awesome date picker
@@ -53,13 +59,12 @@ What that means is obviously open to debate, but here are some ins and outs we h
 Want to help curate this list? Drop a line in the issues.
 
 
-
 # Hacks <a name="hacks"></a>
 
 #### Contents
 
 - [Dataviz](#hacks-dataviz)
-- [Newsroom utilities](#hacks-newsroom-utilities)
+- [Communication tools](#hacks-communications)
 
 ### Dataviz <a name="hacks-dataviz"></a>
 
@@ -70,7 +75,7 @@ Want to help curate this list? Drop a line in the issues.
 |Authors| Jon McClure, The Dallas Morning News|
 
 
-### Newsroom utilities <a name="hacks-newsroom-utilities"></a>
+### Newsroom utilities <a name="hacks-communications"></a>
 
 |   Project  | [django-rolodex](https://github.com/DallasMorningNews/django-rolodex)  |
 |----------|--------|
