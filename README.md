@@ -75,7 +75,7 @@ Want to help curate this list? Drop a line in the issues.
 |Authors| Jon McClure, The Dallas Morning News|
 
 
-### Newsroom utilities <a name="hacks-communications"></a>
+### Communication tools <a name="hacks-communications"></a>
 
 |   Project  | [django-rolodex](https://github.com/DallasMorningNews/django-rolodex)  |
 |----------|--------|
