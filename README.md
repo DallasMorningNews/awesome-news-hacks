@@ -128,12 +128,11 @@ Want to help curate this list? Drop a line in the issues.
 
 ### Geo tools <a name="hacks-geo"></a>
 
-|   Project  | [lunchbox boundaries](https://github.com/stlpublicradio/lunchbox)  |
+|   Project  | [Static Boundary Service](https://github.com/stlpublicradio/static-boundary-service)  |
 |----------|--------|
-|What it do|An add-on to NPR lunchbox that adds a boundary lookup by street address.|
-|Languages/Frameworks| Python |
+|What it do|Get a boundary lookup by street address for a collection of topojson files.|
+|Languages/Frameworks| Javascript |
 |Authors| Brent A Jones, St. Louis Public Radio|
-
 ---
 
 ### Scrapers <a name="hacks-scrapers"></a>
