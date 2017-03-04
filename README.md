@@ -146,7 +146,7 @@ Want to help curate this list? Drop a line in the issues.
 
 ---
 
-### Miscellany <a name="hacks-miscellany"></a>
+### Miscellany <a name="hacks-misc"></a>
 
 |   Project  | [cron-starter-kit](https://github.com/nprapps/cron-starter-kit)  |
 |----------|--------|
