@@ -69,6 +69,7 @@ Want to help curate this list? Drop a line in the issues.
 - [Scrapers](#hacks-scrapers)
 - [Miscellany](#hacks-misc)
 
+---
 
 ### Data utils <a name="hacks-data-utils"></a>
 
@@ -103,6 +104,7 @@ Want to help curate this list? Drop a line in the issues.
 |Languages/Frameworks| JavaScript |
 |Authors| Alan Palazzolo, WNYC |
 
+---
 
 ### Dataviz tools <a name="hacks-dataviz"></a>
 
@@ -112,6 +114,7 @@ Want to help curate this list? Drop a line in the issues.
 |Languages/Frameworks| Javascript, React, Redux|
 |Authors| Jon McClure, The Dallas Morning News|
 
+---
 
 ### Elections <a name="hacks-elections"></a>
 
@@ -121,6 +124,7 @@ Want to help curate this list? Drop a line in the issues.
 |Languages/Frameworks| Python, Django |
 |Authors| Greg Linch, McClatchy |
 
+---
 
 ### Geo tools <a name="hacks-geo"></a>
 
@@ -130,6 +134,7 @@ Want to help curate this list? Drop a line in the issues.
 |Languages/Frameworks| Python |
 |Authors| Brent A Jones, St. Louis Public Radio|
 
+---
 
 ### Scrapers <a name="hacks-scrapers"></a>
 
@@ -139,6 +144,7 @@ Want to help curate this list? Drop a line in the issues.
 |Languages/Frameworks| Python |
 |Authors| Ben Chartoff|
 
+---
 
 ### Miscellany <a name="hacks-miscellany"></a>
 
