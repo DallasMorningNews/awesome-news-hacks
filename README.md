@@ -141,7 +141,7 @@ Want to help curate this list? Drop a line in the issues.
 |----------|--------|
 |What it do|Downloads Integrated Postsecondary Education Data System (IPEDS) complete data files|
 |Languages/Frameworks| Python |
-|Authors| Ben Chartoff|
+|Authors| Hannah Recht|
 
 |   Project  | [dw-nominate](https://github.com/jeremyjbowers/dw-nominate)  |
 |----------|--------|
