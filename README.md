@@ -143,6 +143,12 @@ Want to help curate this list? Drop a line in the issues.
 |Languages/Frameworks| Python |
 |Authors| Ben Chartoff|
 
+|   Project  | [dw-nominate](https://github.com/jeremyjbowers/dw-nominate)  |
+|----------|--------|
+|What it do|Downloads and parses DW-NOMINATE ideology data for legislators, votes and parties for any session of Congress|
+|Languages/Frameworks| Python |
+|Authors| [@jeremyjbowers](https://github.com/jeremyjbowers)|
+
 ---
 
 ### Miscellany <a name="hacks-misc"></a>
