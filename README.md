@@ -168,18 +168,26 @@ Want to help curate this list? Drop a line in the issues.
 |Authors| Alan Palazzolo, WNYC |
 
 
-
 |   Project  | [pym-shortcode](https://github.com/INN/pym-shortcode)  |
 |----------|--------|
 |What it do| A WordPress plugin adding a [pym src=""] shortcode to simplify the process of using pym.js. |
-|Languages/Frameworks| JavaScript, PHP |
-|Authors| RC Lations |
+|Languages/Frameworks| WordPress, JavaScript, PHP |
+|Authors| [The INN Nerds](http://nerds.inn.org/) |
+
+
+|   Project  | [pym-shortcode](https://github.com/INN/client-hosting-manager)  |
+|----------|--------|
+|What it do| A WordPress plugin creating a new level of admin, to prevent untrusted admins from deleting your users. |
+|Languages/Frameworks| WordPress, PHP |
+|Authors| [The INN Nerds](http://nerds.inn.org/) |
+
 
 |   Project  | [python-frontmatter](https://github.com/eyeseast/python-frontmatter)  |
 |----------|--------|
 |What it do|Jekyll-style YAML front matter offers a useful way to add arbitrary, structured metadata to text documents, regardless of type. This is a small package to load and parse files (or just text) with YAML front matter. |
 |Languages/Frameworks| Python |
 |Authors| Chris Amico, Frontline|
+
 
 |   Project  | [srccon-schedule](https://github.com/OpenNews/srccon-schedule)  |
 |----------|--------|
